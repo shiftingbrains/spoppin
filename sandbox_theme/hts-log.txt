@@ -1,0 +1,66 @@
+HTTrack3.49-2 launched on Fri, 25 Jun 2021 12:29:51 at http://themes.iki-bir.com/sandbox +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -iC1 http://themes.iki-bir.com/sandbox -O "/home/owner/websites/sandbox theme" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:56:14	Error: 	"Not Found" (404) at link themes.iki-bir.com/sandbox/src/media/movie.webm (from themes.iki-bir.com/sandbox/index5.html)
+12:57:39	Warning: 	HTML file (43234 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index2.html
+12:57:41	Warning: 	HTML file (49959 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index3.html
+12:57:43	Warning: 	HTML file (45603 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index4.html
+12:57:44	Warning: 	HTML file (50089 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index5.html
+12:57:45	Warning: 	HTML file (48002 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index6.html
+12:57:49	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/demos/mi6.jpg (from themes.iki-bir.com/sandbox/)
+12:57:49	Warning: 	HTML file (50600 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index8.html
+12:57:50	Warning: 	HTML file (57101 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index9.html
+12:57:51	Warning: 	HTML file (44894 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index10.html
+12:57:53	Warning: 	HTML file (59483 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index11.html
+12:57:55	Warning: 	HTML file (44614 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index12.html
+12:57:56	Warning: 	HTML file (46501 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index13.html
+12:57:58	Warning: 	HTML file (43934 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index14.html
+12:57:59	Warning: 	HTML file (48612 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index15.html
+12:58:01	Warning: 	HTML file (33952 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index16.html
+12:58:03	Warning: 	HTML file (43371 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index17.html
+12:58:05	Warning: 	HTML file (54472 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/index18.html
+12:58:06	Warning: 	HTML file (37693 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/projects.html
+12:58:16	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/b4.jpg (from themes.iki-bir.com/sandbox/index3.html)
+12:58:17	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/tm1.jpg (from themes.iki-bir.com/sandbox/index3.html)
+12:58:19	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/ab1.jpg (from themes.iki-bir.com/sandbox/index4.html)
+12:58:29	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/sa3.jpg (from themes.iki-bir.com/sandbox/index5.html)
+12:58:30	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/sa6.jpg (from themes.iki-bir.com/sandbox/index5.html)
+12:58:30	Warning: 	HTML file (708 bytes) retransferred due to lack of cache: themes.iki-bir.com/sandbox/src/media/movie.webm
+12:58:31	Error: 	"Not Found" (404) at link themes.iki-bir.com/sandbox/src/media/movie.webm (from themes.iki-bir.com/sandbox/index5.html)
+12:58:45	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/se1.jpg (from themes.iki-bir.com/sandbox/index7.html)
+12:58:46	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/pp17.jpg (from themes.iki-bir.com/sandbox/index7.html)
+12:58:47	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/pp21.jpg (from themes.iki-bir.com/sandbox/index7.html)
+12:58:48	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/concept/concept17.png (from themes.iki-bir.com/sandbox/index7.html)
+12:58:53	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/bg4.jpg (from themes.iki-bir.com/sandbox/index11.html)
+12:58:56	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/about5.jpg (from themes.iki-bir.com/sandbox/index13.html)
+12:58:57	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/about18.jpg (from themes.iki-bir.com/sandbox/index14.html)
+12:58:58	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/pd1.jpg (from themes.iki-bir.com/sandbox/index14.html)
+12:58:59	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/pd2.jpg (from themes.iki-bir.com/sandbox/index14.html)
+12:59:00	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/icons/list.svg (from themes.iki-bir.com/sandbox/index15.html)
+12:59:01	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/icons/telemarketer.svg (from themes.iki-bir.com/sandbox/index15.html)
+12:59:06	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/about24.jpg (from themes.iki-bir.com/sandbox/index17.html)
+12:59:07	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/demos/d5-1.jpg (from themes.iki-bir.com/sandbox/index18.html)
+12:59:08	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/cs4-full.jpg (from themes.iki-bir.com/sandbox/projects.html)
+12:59:09	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/cs5.jpg (from themes.iki-bir.com/sandbox/projects.html)
+12:59:10	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/cs10-full.jpg (from themes.iki-bir.com/sandbox/projects.html)
+12:59:11	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/cs17.jpg (from themes.iki-bir.com/sandbox/projects2.html)
+12:59:12	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/pp4.jpg (from themes.iki-bir.com/sandbox/single-project.html)
+12:59:13	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/pp9.jpg (from themes.iki-bir.com/sandbox/single-project2.html)
+12:59:18	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/concept/concept10.png (from themes.iki-bir.com/sandbox/icon-concept.html)
+12:59:23	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/icons/briefcase.svg (from themes.iki-bir.com/sandbox/icon-duotone.html)
+13:00:47	Error: 	"Not Found" (404) at link themes.iki-bir.com/sandbox/src/images/vimeo-play.png (from themes.iki-bir.com/sandbox/src/css/plugins.css)
+13:00:47	Error: 	"Not Found" (404) at link themes.iki-bir.com/sandbox/src/images/video-play.png (from themes.iki-bir.com/sandbox/src/css/plugins.css)
+13:00:47	Error: 	"Not Found" (404) at link themes.iki-bir.com/sandbox/src/images/youtube-play.png (from themes.iki-bir.com/sandbox/src/css/plugins.css)
+13:00:47	Error: 	"Not Found" (404) at link themes.iki-bir.com/sandbox/src/images/loading.gif (from themes.iki-bir.com/sandbox/src/css/plugins.css)
+13:00:47	Error: 	"Not Found" (404) at link themes.iki-bir.com/sandbox/src/css/owl.video.play.png (from themes.iki-bir.com/sandbox/src/css/plugins.css)
+13:01:25	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/pp21.jpg (from themes.iki-bir.com/sandbox/index7.html)
+13:01:26	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.iki-bir.com/sandbox/src/img/photos/cs17.jpg (from themes.iki-bir.com/sandbox/projects2.html)
+13:01:29	Error: 	"No data (connection closed)" (-4) after 2 retries at link themes.iki-bir.com/sandbox/src/img/photos/pp21.jpg (from themes.iki-bir.com/sandbox/index7.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 minutes 54 seconds : 600 links scanned, 580 files written (43894863 bytes overall) [34511837 bytes received at 18031 bytes/sec], 36392040 bytes transferred using HTTP compression in 535 files, ratio 72%, 5.5 requests per connection
+(8 errors, 47 warnings, 0 messages)
